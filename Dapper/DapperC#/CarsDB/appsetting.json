@@ -1,5 +1,0 @@
-﻿{
-  "ConnectionStrings": {
-    "Default": "Data Source=localhost;Initial Catalog=CarsDB;Integrated Security=True;TrustServerCertificate=True"
-  }
-}
